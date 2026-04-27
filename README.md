@@ -1,16 +1,1 @@
-project:
-  type: website
 
-website:
-  title: "Literate Programming with Quarto"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
-
-format:
-  html:
-    theme: cosmo
-    toc: true
