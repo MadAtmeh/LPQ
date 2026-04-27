@@ -1,0 +1,31 @@
+---
+title: "Student Scores Analysis"
+format: html
+---
+
+## Documentation
+
+This example analyzes student exam scores to understand class performance. We compute summary statistics and visualize the distribution.
+
+## Data
+
+```{r}
+scores <- c(55, 62, 70, 75, 80, 85, 90, 95, 100)
+
+
+mean_score <- mean(scores)
+median_score <- median(scores)
+sd_score <- sd(scores)
+
+hist(scores,
+     main = "Distribution of Student Scores",
+     xlab = "Scores",
+     col = "lightblue",
+     border = "white")
+```
+# -----------------------------
+# Analysis: 
+# The average score gives an overview of class performance. 
+# The median shows the central tendency without being affected by extreme values. 
+# The standard deviation shows how spread out the scores are. 
+# Overall, the class performance is strong with moderate variation.

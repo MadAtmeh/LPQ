@@ -1,0 +1,32 @@
+{
+    "id": "683B14A6",
+    "path": "~/28.4/Literate programming/Demo.qmd",
+    "project_path": "Demo.qmd",
+    "type": "quarto_markdown",
+    "hash": "2566788198",
+    "contents": "",
+    "dirty": false,
+    "created": 1777281855224.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "2,12",
+        "scrollLine": "0",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "2:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1777283023,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1777283023065,
+    "read_only": false,
+    "read_only_alternatives": []
+}
