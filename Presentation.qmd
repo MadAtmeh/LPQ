@@ -17,8 +17,15 @@ format:
 bibliography: references.bib
 ---
 
-## Github.com/MadAtmeh/LPQ {style="text-align: center;"}
+## Scan the QR code or enter the link
 
+::: {.text-center}
+
+![](QRcode.png){width=50% fig-align="center"}
+
+:::
+
+### madatmeh.github.io {style="text-align: center;" }
 # Literate Programming
 
 
@@ -31,6 +38,8 @@ Is a programming approach that combines code and explanation in a single documen
 
 Is an open-source publishing system  that supports literate programming by combining **code**, **text**, and **output** in a single document.
 It allows users to create:
+<br><br>
+
 ![](PDFHTMLSLIDES.png){fig-align="center" width="990px" height="300px"}
 
 ## History: Literate Programming
